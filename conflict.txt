@@ -1,1 +1,5 @@
+HEAD
 Nội dung từ feature branch
+
+Nội dung từ main branch
+3cab44a (Main edit conflict.txt)
